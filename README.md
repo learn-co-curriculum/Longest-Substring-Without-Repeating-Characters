@@ -37,6 +37,8 @@ Output: 0
 
 **_And remember, don't run our tests until you've passed your own!_**
 
+**BONUS**: For students who did not achieve O(n) on longest substring, refactor solution until achieved.
+
 ## How to run your own tests
 
 ### Ruby
