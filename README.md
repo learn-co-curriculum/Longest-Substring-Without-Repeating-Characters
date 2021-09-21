@@ -1,33 +1,41 @@
 # Day 1-2: Longest Substring Without Repeating Characters
 
-**Fork and then clone me!**
+## Learning Goals
 
-Given a string `s`, find the length of the longest substring without repeating characters.
+- Practice algorithmic problem solving
 
-### Example 1:
+## Instructions
 
+Given a string `s`, find the length of the longest substring without repeating
+characters.
+
+### Example 1
+
+```txt
 Input: s = "abcabcbb"
-
 Output: 3
+```
 
-Explanation: The answer is "abc", with the length of 3.
+Explanation: The answer is `"abc"`, with the length of 3.
 
-### Example 2:
+### Example 2
 
+```txt
 Input: s = "pwwkew"
-
 Output: 3
+```
 
-Explanation: The answer is "wke", with the length of 3.
-Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
+Explanation: The answer is `"wke"`, with the length of 3. Notice that the answer
+must be a substring, `"pwke"` is a subsequence and not a substring.
 
-### Example 3:
+### Example 3
 
+```txt
 Input: s = ""
-
 Output: 0
+```
 
-## Before you start coding:
+## Before you start coding
 
 1. Rewrite the problem in your own words
 2. Validate that you understand the problem
@@ -37,7 +45,8 @@ Output: 0
 
 **_And remember, don't run our tests until you've passed your own!_**
 
-**BONUS**: For students who did not achieve O(n) on longest substring, refactor solution until achieved.
+**BONUS**: For students who did not achieve O(n) on longest substring, refactor
+solution until achieved.
 
 ## How to run your own tests
 
